@@ -5,7 +5,7 @@
 
 Aquí están los comandos que debes poner en Termux.
 
-Si te aparece algo, dale `Y` y presiona `Enter`:
+Si te aparece algo, dale `Y` y presiona pon comando por comando`Enter`:
 
 ```sh
 termux-setup-storage
@@ -17,5 +17,10 @@ git clone https://github.com/Eliasar54/-YUGI-BOT-MD-.git
 cd /data/data/com.termux/files/home/-YUGI-BOT-MD-
 
 for zip in *.zip; do unzip "$zip"; done
+
+
+npm istall
+
+
 
 npm start
