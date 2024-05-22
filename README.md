@@ -19,7 +19,7 @@ cd /data/data/com.termux/files/home/-YUGI-BOT-MD-
 for zip in *.zip; do unzip "$zip"; done
 
 
-npm istall
+npm install
 
 
 
