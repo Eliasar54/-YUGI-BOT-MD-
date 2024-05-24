@@ -1,54 +1,46 @@
-# -YUGI-BOT-MD
+# ¡Gracias por visitar el repositorio de Yugi Bot!
 
+Aquí están los comandos que debes poner en Termux. Si te aparece algo, dale Y y presiona Enter comando por comando.
 
-# ¡Gracias por visitar el repositorio de yugi bot!
+## Enlaces útiles:
+- [YouTube](https://youtube.com/@eliasar_yt?si=rX57tbCTd1VDxdp-)
+- [Grupo de WhatsApp](https://chat.whatsapp.com/C4LPn0cWKrx8Y7UgGZkneI)
 
-Aquí están los comandos que debes poner en Termux.
+Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visitar nuestro canal de YouTube.
 
-Si te aparece algo, dale `Y` y presiona pon comando por comando`Enter`:
+## Instrucciones detalladas:
 
+1. Configura el almacenamiento en Termux:
+    ```sh
+    termux-setup-storage
+    ```
 
-```sh
-termux-setup-storage
+2. Actualiza e instala los paquetes necesarios:
+    ```sh
+    apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
+    ```
 
-apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
+3. Clona el repositorio del bot:
+    ```sh
+    git clone https://github.com/Eliasar54/-YUGI-BOT-MD-.git
+    ```
 
-git clone https://github.com/Eliasar54/-YUGI-BOT-MD-.git
+4. Navega al directorio del bot:
+    ```sh
+    cd /data/data/com.termux/files/home/-YUGI-BOT-MD-
+    ```
 
-cd /data/data/com.termux/files/home# -YUGI-BOT-MD
+5. Descomprime los archivos zip si existen:
+    ```sh
+    for zip in *.zip; do unzip "$zip"; done
+    ```
 
+6. Instala las dependencias del proyecto:
+    ```sh
+    npm install
+    ```
 
-# ¡Gracias por visitar el repositorio de yugi bot!
-
-Aquí están los comandos que debes poner en Termux.
-
-Si te aparece algo, dale `Y` y presiona pon comando por comando`Enter`:
-
-<!-- Copia y pega el siguiente código de instalación en el HTML de tu página web: https://github.com/Eliasar54/-YUGI-BOT-MD-.git --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/66502d38b8bc7a770af58b36/66502d3bb8bc7a770af58b39.js?platform=dashboard'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
-```sh
-termux-setup-storage
-
-apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
-
-git clone https://github.com/Eliasar54/-YUGI-BOT-MD-.git
-
-cd /data/data/com.termux/files/home/-YUGI-BOT-MD-
-
-for zip in *.zip; do unzip "$zip"; done
-
-
-npm install
-
-
-
-npm start
-/-YUGI-BOT-MD-
-
-for zip in *.zip; do unzip "$zip"; done
-
-
-npm install
-
-
-
-npm start
+7. Inicia el bot:
+    ```sh
+    npm start
+    ```
