@@ -7,7 +7,7 @@ Aquí están los comandos que debes poner en Termux. Si te aparece algo, dale Y 
 ## Enlaces útiles:
 - [YouTube](https://youtube.com/@eliasar_yt?si=rX57tbCTd1VDxdp-)
 - [Grupo de WhatsApp](https://chat.whatsapp.com/C4LPn0cWKrx8Y7UgGZkneI)
-
+- [![Tutorial de Instalar en Termux](https://img.shields.io/badge/Tutorial%20de%20Instalar%20en%20Termux-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sRHa1R_urcc?si=YszawABZkdw8Ikzv)
 Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visitar nuestro canal de YouTube.
 [![Crear Servidor Gratis](https://img.shields.io/badge/Crear%20Servidor%20Gratis-327FC7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=804417377&ref=main&geo=UsEast)
 
