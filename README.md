@@ -17,7 +17,7 @@ Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visita
 
 Sigue las indicaciones del video y ejecuta los siguientes comandos uno por uno:
 
-```bash
+
 for zip in *.zip; do unzip "$zip"; done
 
 npm install
