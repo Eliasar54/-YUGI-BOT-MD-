@@ -9,6 +9,7 @@ Aquí están los comandos que debes poner en Termux. Si te aparece algo, dale Y 
 - [Grupo de WhatsApp](https://chat.whatsapp.com/C4LPn0cWKrx8Y7UgGZkneI)
 
 Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visitar nuestro canal de YouTube.
+[![Crear Servidor Gratis](https://img.shields.io/badge/Crear%20Servidor%20Gratis-327FC7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=804417377&ref=main&geo=UsEast)
 
 ## Instrucciones detalladas:
 
