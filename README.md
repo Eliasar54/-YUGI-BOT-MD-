@@ -11,6 +11,19 @@ Aquí están los comandos que debes poner en Termux. Si te aparece algo, dale Y 
 Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visitar nuestro canal de YouTube.
 [![Crear Servidor Gratis](https://img.shields.io/badge/Crear%20Servidor%20Gratis-327FC7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=804417377&ref=main&geo=UsEast)
 
+[![Cómo Crear el Servidor Gratis](https://img.shields.io/badge/C%C3%B3mo%20Crear%20el%20Servidor%20Gratis-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7K5lrxwIxhk?si=2ddm5cc8aOXRx-vR)
+
+## Comandos a Ejecutar
+
+Sigue las indicaciones del video y ejecuta los siguientes comandos uno por uno:
+
+```bash
+for zip in *.zip; do unzip "$zip"; done
+
+npm install
+
+npm start
+
 ## Instrucciones detalladas:
 
 1. Configura el almacenamiento en Termux:
