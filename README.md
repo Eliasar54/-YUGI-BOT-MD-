@@ -46,3 +46,32 @@ Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visita
     ```sh
     npm start
     ```
+
+# Yugi-Bot
+
+## Descripción
+Yugi-Bot es un bot de WhatsApp multifuncional diseñado para descargar música y videos, crear stickers, interactuar con IA, mejorar la calidad de las imágenes, y realizar todas las acciones de una persona real en un grupo, como cambiar la URL y el nombre, entre otras funciones.
+
+## Propietarios
+
+### Código Fuente
+El código fuente de este proyecto es propiedad de [elrebelde21](https://github.com/elrebelde21).
+
+![elrebelde21 Logo](https://github.com/elrebelde21.png)
+
+### Bot
+El bot es gestionado y mantenido por [Eliasar54](https://github.com/Eliasar54).
+
+![Eliasar54 Logo](https://github.com/Eliasar54.png)
+
+## Características
+- Descarga de música y videos.
+- Creación de stickers.
+- Interacción con inteligencia artificial.
+- Mejora de calidad de imágenes.
+- Acciones de administración de grupos de WhatsApp.
+
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-repositorio.git
