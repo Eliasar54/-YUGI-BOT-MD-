@@ -1,4 +1,6 @@
-# ¡Gracias por visitar el repositorio de Yugi Bot!
+# ¡Gracias por visitar el repositorio de Yugi Bot
+créditos a elrebelde21 propietario de los códigos!
+
 
 Aquí están los comandos que debes poner en Termux. Si te aparece algo, dale Y y presiona Enter comando por comando.
 
