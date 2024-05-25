@@ -16,15 +16,15 @@ Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visita
 ## Comandos a Ejecutar en el servidor
 
 Sigue las indicaciones del video y ejecuta los siguientes comandos uno por uno:
-```sh
+
 
 for zip in *.zip; do unzip "$zip"; done
 
-```sh
+
 
 npm install
 
-```sh
+
 
 npm start
 
