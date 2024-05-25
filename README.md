@@ -13,7 +13,7 @@ Para cualquier duda o pregunta, no dudes en unirte al grupo de WhatsApp o visita
 
 [![Cómo Crear el Servidor Gratis](https://img.shields.io/badge/C%C3%B3mo%20Crear%20el%20Servidor%20Gratis-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7K5lrxwIxhk?si=2ddm5cc8aOXRx-vR)
 
-## Comandos a Ejecutar
+## Comandos a Ejecutar en el servidor
 
 Sigue las indicaciones del video y ejecuta los siguientes comandos uno por uno:
 
